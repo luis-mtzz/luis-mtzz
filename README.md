@@ -1,16 +1,17 @@
-### Hi there 👋
+### about me
 
-<!--
-**lrm2000/lrm2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software dev based in houston, texas. looking to contribute to open source projects.
 
-Here are some ideas to get you started:
+### skills
+  - Python (FastAPI, pandas, flask, django)
+  - Go
+  - Cloud (AWS, Azure)
+  - IaC (Terraform, Bicep)
+  - RDBSM (MSSQL, Oracle SQL, SQL Server)
+  - ETL (Azure Data Factory)
+  - AI (OpenAI, Azure Cognitive Services)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### contact
+  - my other [github](https://github.com/itot0)
+  - my personal email: [hirok7433@gmail.com](mailto:user@example.com)
+  - discord: hir0ro
