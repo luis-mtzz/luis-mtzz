@@ -22,6 +22,4 @@ I am a software dev based in houston, texas. looking to contribute to open sourc
   - [portfolio website](https://lrm2000.github.io/)
 
 ### currently working on
-  - MERN stack project
-  - lfc related project
-  - lfw
+  - Steam Analyzer [repo](https://github.com/lrm2000/steam_analysis)
