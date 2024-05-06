@@ -7,7 +7,7 @@ I am a software dev based in houston, texas. looking to contribute to open sourc
   - Go
   - Cloud (AWS, Azure)
   - IaC (Terraform, Bicep)
-  - RDBSM (MSSQL, Oracle SQL, SQL Server)
+  - RDBS (MSSQL, Oracle SQL, SQL Server)
   - ETL (Azure Data Factory)
   - AI (OpenAI, Azure Cognitive Services)
 
