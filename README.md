@@ -4,12 +4,13 @@ I am a software dev based in houston, texas. looking to contribute to open sourc
 
 ### skills
   - Python (FastAPI, pandas, flask, django)
-  - Go
+  - JavaScript (Node/Express, React, Next.js)
   - Cloud (AWS, Azure)
   - IaC (Terraform, Bicep)
   - RDBS (MSSQL, Oracle SQL, SQL Server)
   - ETL (Azure Data Factory)
   - AI (OpenAI, Azure Cognitive Services)
+  - Redis
 
 ### experience
   - B.S. Mathematics
