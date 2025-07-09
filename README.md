@@ -2,7 +2,7 @@
 
 I am a software dev based in houston, texas.
 
-### experience
-  - B.S. Mathematics
-  - Software Dev. @ Yammm Software
-  - prev. software dev @ NOV inc. (2 years)
+### current mood
+  - want to learn rust
+  - want to make rust cli tools for myself
+  - wes montgomery
